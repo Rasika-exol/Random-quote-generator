@@ -1,0 +1,65 @@
+body {
+  font-family: Arial, sans-serif;
+  background: url('https://res.cloudinary.com/dhwaeehz7/image/upload/v1684499371/4723250_trjlch.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  font-size: 32px;
+  color: floralwhite;
+  margin-bottom: 30px;
+}
+
+#quote {
+  font-size: 28px;
+  color: darkbrown;
+  margin-bottom: 20px;
+  text-align: center;
+  padding: 20px;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 0.8);
+  box-shadow: 0px 2px 4px rgba(255, 255, 255, 0.6);
+}
+
+#newQuoteBtn {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: blue;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-top: 20px;
+}
+
+#newQuoteBtn:hover {
+  background-color: #0056b3;
+}
+
+#categories {
+  margin-top: 20px;
+}
+
+.categoryBtn {
+  margin-right: 10px;
+  padding: 5px 10px;
+  font-size: 14px;
+  background-color: darkmagenta;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.categoryBtn.active {
+  background-color: #0056b3;
+}
+
+.categoryBtn:hover {
+  background-color: #0056b3;
+}
