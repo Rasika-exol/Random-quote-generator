@@ -23,7 +23,7 @@ h1 {
   padding: 20px;
   border-radius: 8px;
   background-color: rgba(255, 255, 255, 0.8);
-  box-shadow: 0px 2px 4px rgba(255, 255, 255, 0.6);
+  box-shadow: 0px 1px 3px rgba(255, 255, 255, 0.6);
 }
 
 #newQuoteBtn {
@@ -48,7 +48,7 @@ h1 {
 .categoryBtn {
   margin-right: 10px;
   padding: 5px 10px;
-  font-size: 14px;
+  font-size: 15px;
   background-color: darkmagenta;
   color: #fff;
   border: none;
