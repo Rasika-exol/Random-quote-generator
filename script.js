@@ -19,7 +19,7 @@ const quotes = {
     "Books are a uniquely portable magic. - Stephen King",
     "The only way to do great work is to love what you do. - Steve Jobs",
     "Books are a uniquely portable magic. – Stephen King, On Writing: A Memoir of the Craft",
-    "I can feel infinitely alive curled up on the sofa reading a book. – Benedict Cumberbatch"
+ 
 
 
   ]
